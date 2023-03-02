@@ -1,0 +1,2 @@
+  Q. What is the difference between git stash apply and git stash pop?
+  A. Git stash pop removes the stash from stash list.Git stash apply does the same thing but it leaves it in the stash list for later uses.
